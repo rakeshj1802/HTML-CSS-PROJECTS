@@ -1,0 +1,1 @@
+A collection of projects built using HTML and CSS to demonstrate core web development concepts and techniques. These projects cover a range of topics from basic layout design to advanced styling and responsive web design.
