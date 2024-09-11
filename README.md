@@ -1,4 +1,8 @@
 A collection of projects built using HTML and CSS to demonstrate core web development concepts and techniques. These projects cover a range of topics from basic layout design to advanced styling and responsive web design.
+
+
+
+
 Technologies Used
 HTML5 for structuring content.
 CSS3 for styling and layout.
